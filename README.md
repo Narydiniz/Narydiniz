@@ -1,8 +1,8 @@
-<h1 align="left">Olá, sou a Naryara</h1>
+<h1 align="left">Hello World</h1>
 
 ###
 
-<p align="left">Meu nome é Naryara e eu sou do Piauí</p>
+<p align="left">Meu nome é Naryara Diniz</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Desde 2023<br>📚 Aprendendo  programação na instituição de ensino SENAI <br></p>
+<p align="left">✨Desde 2023<br>📚 Aprendendo  programação na instituição de ensino SENAI <br>📍Sou do Piauí</p>
 
 ###
 
