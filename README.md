@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Desde 2023<br>📚 Aprendendo  programação na instituição de ensini SENAI <br></p>
+<p align="left">✨Desde 2023<br>📚 Aprendendo  programação na instituição de ensino SENAI <br></p>
 
 ###
 
