@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Naryara e eu sou do Piauí</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JS<br>🎯 Goals: Be a full stack developer</p>
+<p align="left">✨Desde 2023<br>📚 Aprendendo  programação na instituição de ensini SENAI <br></p>
 
 ###
 
